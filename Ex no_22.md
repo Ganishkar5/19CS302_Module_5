@@ -17,8 +17,8 @@ To write a C program to count total number of even elements in an array using ca
 ```
 /*
 C program to count total number of even elements in an array using calloc().
-Developed by: KAMALI.S
-RegisterNumber:  212222060109
+Developed by: Ganishkar S B
+RegisterNumber:  212222060058
 */
 #include <stdio.h> 
 int main() { 
