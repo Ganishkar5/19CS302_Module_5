@@ -8,8 +8,8 @@ To Create a structure program to read(empno,dept and basic pay) and store the da
 ```
 /*
 A structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
-Developed by: DevikaN N
-RegisterNumber:  212222060038
+Developed by: Ganishkar S B
+RegisterNumber:  212222060058
 */
 #include <stdio.h>
 struct Employee {
